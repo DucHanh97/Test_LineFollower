@@ -388,6 +388,16 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
+            <File>
+              <FileName>follow_line.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\follow_line.c</FilePath>
+            </File>
+            <File>
+              <FileName>follow_line.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\follow_line.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

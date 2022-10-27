@@ -1,5 +1,6 @@
 --cpu Cortex-M3
 ".\objects\main.o"
+".\objects\follow_line.o"
 ".\objects\gpio_driver.o"
 ".\objects\motor.o"
 ".\objects\sysclock.o"
